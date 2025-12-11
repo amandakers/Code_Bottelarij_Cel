@@ -1,6 +1,6 @@
 ENGELS
 
-This is code created for adding an industrial CAT camera (MER2-041-302GC-P) to the Bottelarij Cel from Hoppenbrouwers.
+This is code created for adding an industrial CAT camera (MER2-041-302GC-P) to the Bottling facility Cell from Hoppenbrouwers.
 
 The code contains the Galaxy View SDK from publisher Daheng Imaging.
 The publisher's example code "GxChunkdata.cpp" has been modified to read the RGB values ​​and the area the camera is reading.
