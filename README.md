@@ -1,3 +1,5 @@
+DIT README BESTAND MOET NOG BEWERKT WORDEN
+
 Code Bottelarij Cel met de Daheng Imaging camera voor het bedrijf hoppenbrouwers
 
 
